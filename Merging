@@ -1,0 +1,27 @@
+	MERGING
+
+1. git checkout master
+   git merge milkshake-flavours
+
+2. ls
+   git log
+
+3. git merge history
+
+4. ls
+   git log
+
+5. git checkout history
+   git log
+
+   git checkout milkshake-flavours
+   git log
+
+5.1 git checkout history
+    git merge master
+
+5.2 git checkout master
+    git log
+
+
+

@@ -1,0 +1,33 @@
+GIT BASIC EXERCISES
+
+1. mkdir git-basic-exercises
+
+2. cd git-basic-exercises/
+
+3. ls -a
+
+4. git init
+   ls -a
+   It has a git initial.
+
+5. git status
+
+6. touch README.md
+   ls -a
+   git status
+
+7. git log
+
+8. git add README.md
+
+9. git status. Yes, the difference is now there is a tracked file.
+
+10. git rm --cached README.md
+
+11. git commit -m "initial commit"
+
+12. git log. 
+    IT IS !!! 
+    q
+
+

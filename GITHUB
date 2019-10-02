@@ -1,0 +1,10 @@
+	GIT HUB
+
+1. git checkout master
+   git remote add origin https://github.com/Sekgomotso/git-basic-exercises.git
+   git push -u origin master
+   git checkout history 
+   git push -u origin history
+   git checkout milkshake-flavours 
+   git push -u origin milkshake-flavours
+   

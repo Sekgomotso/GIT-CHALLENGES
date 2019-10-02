@@ -1,0 +1,14 @@
+	Check this out
+
+1. 952a75f875b5e66df881eff70c2ef2277b923256
+
+2. q
+
+3. git checkout 952a75f875b5e66df881eff70c2ef2277b923256
+
+4. cat README.md
+
+5. git checkout master
+
+6. cat README.md 
+
